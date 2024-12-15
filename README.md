@@ -13,7 +13,7 @@ Play with the timeout in line 21 in main.go and check the output.
 Build and run
 -------------
 
-You need to have go 1.24 installed. Checkout the code and run 
+You need to have go 1.23 installed. Checkout the code and run 
 
 ```shell
 go mod tidy
